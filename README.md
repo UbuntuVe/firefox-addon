@@ -24,7 +24,7 @@ Filing a bug at https://github.com/ajsb85/firefox-addon-ubuntuve/issues
     Firefox: 38.0a1 – 47.0a2
     Cunaguaro: 38.0a1 – 47.0a2
     Iceweasel: 38.0a1 – 47.0a2
-    Firefox Developer Edition: 38.0a1 – 47.0a2
+    Firefox Developer Edition: 38.0a1 – 50.0a2
 
 ### License
 This Source Code Form is subject to the terms of the Mozilla Public
